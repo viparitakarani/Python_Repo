@@ -1,2 +1,1 @@
-# Python_Repo
-A Repository to learn python scripting projects
+# Ploting Data with Python
