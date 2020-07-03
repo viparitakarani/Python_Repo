@@ -1,6 +1,7 @@
 # Python Projects for GUI in Mac
 
-using anaconda tools, and add the 
+this is sample python files using GUI Librarries QT and GTK
+this files is running on anaconda python 
 
 
 ## USING QT Librarry 
